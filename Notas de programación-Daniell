@@ -1,4 +1,4 @@
-class HelloWorld {
+class HolaMundo {
     public static void main(String[] args) {
         // Enteros
         byte enteroMuyPequeno; // Declaracion de variable
